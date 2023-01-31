@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "882EEA9B-0358-4A3A-A82A-7E48CA747E10"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0561199-D839-4293-8B2D-880303E5F566"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CupcakeCorner/CodeValidCheckView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "checkValidCompanyCode(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0561199-D839-4293-8B2D-880303E5F566 - a0697ec697946cab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.CodeValidCheckView.checkValidCompanyCode(Swift.String) -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joon-hokil/Developer/Study/CupcakeCorner/CupcakeCorner/CodeValidCheckView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "333">
+               </Location>
+               <Location
+                  uuid = "B0561199-D839-4293-8B2D-880303E5F566 - a0697ec697946cab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.CodeValidCheckView.checkValidCompanyCode(Swift.String) -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joon-hokil/Developer/Study/CupcakeCorner/CupcakeCorner/CodeValidCheckView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "458">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70FD52CC-8B65-47DC-BF4A-5B1FB318A3E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CupcakeCorner/CodeValidCheckView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "checkValidCompanyCode(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
